@@ -143,8 +143,8 @@ HBO,http://50.7.61.148:30080/Entry/hbo
 TVBS,http://50.7.61.148:30080/Entry/tvbs
 民视新闻,http://50.7.61.148:30080/Entry/ftvnews
 中视,http://50.7.61.148:30080/Entry/ctv
-TVBS新闻 HD,http://50.7.61.148:30080/Entry/tvbsnews
-非凡商业 HD,http://50.7.61.147:30080/Entry/ubnbus
+TVBS新闻,http://50.7.61.148:30080/Entry/tvbsnews
+非凡商业,http://50.7.61.147:30080/Entry/ubnbus
 TLC,http://50.7.61.147:30080/Entry/tlc
 JET综合,http://50.7.61.147:30080/Entry/jet
 民视,http://50.7.61.147:30080/Entry/ftv
