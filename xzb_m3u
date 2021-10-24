@@ -5,9 +5,9 @@ https://pull.asia.uurtc.com/tzuchi/anyrtcej8mzJr0U1ZT_xfx1l/playlist.m3u8?wsSecr
 https://pull.asia.uurtc.com/tzuchi/anyrtcej8mzJr0U1ZT_xfx1l/playlist.m3u8?wsSecret=47265981776902020b3e3e8e4157a96a&wsTime=1635052781&keeptime=86400
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="慈济频道",慈济培训
 https://pull.asia.uurtc.com/tzuchi/anyrtcej8mzJr0U1ZT_hljst/playlist.m3u8?wsSecret=eafbfef26e145d937691276c21a8769e&wsTime=1635046022&keeptime=86400
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="慈济频道",大爱
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="慈济频道",大爱1
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="慈济频道",大爱
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="慈济频道",大爱2
 https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 #EXTINF:-1 tvg-id="6140" tvg-name="BloombergTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png" group-title="港澳台",Bloomberg TV Asia
 https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
