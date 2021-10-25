@@ -1,12 +1,14 @@
 慈济频道,#genre#
-慈济共修,https://pull.asia.uurtc.com/tzuchi/anyrtcej8mzJr0U1ZT_xfx1l/playlist.m3u8?wsSecret=db9244e2eb4ce81c59fdde8f3b5bc22b&wsTime=1635139809&keeptime=86400
-大愛1,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-大愛2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+慈济共修,https://pull.asia.uurtc.com/tzuchi/anyrtcej8mzJr0U1ZT_xfx1l/playlist.m3u8?wsSecret=fcfa1601d10a3fae8045de8839b5663a&wsTime=1635052819&keeptime=86400
+慈济共修,https://pull.asia.uurtc.com/tzuchi/anyrtcej8mzJr0U1ZT_xfx1l/playlist.m3u8?wsSecret=47265981776902020b3e3e8e4157a96a&wsTime=1635052781&keeptime=86400
+慈济培訓,https://pull.asia.uurtc.com/tzuchi/anyrtcej8mzJr0U1ZT_hljst/playlist.m3u8?wsSecret=eafbfef26e145d937691276c21a8769e&wsTime=1635046022&keeptime=86400
+大愛,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+大愛,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 
 台湾1频道,#genre#
 Bloomberg TV Asia,https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
 Celestial Movies,http://210.210.155.35/qwr9ew/s/s33/index.m3u8
-CTI TV,http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UC5l1Yto5oOIgRXlI4p4VKbw/live
+CTI T,http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UC5l1Yto5oOIgRXlI4p4VKbw/live
 GSTV,http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UCoo-jAsJgM8z09ddlhcBlSA/live
 National Geographic,http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 中天新聞,http://seb.sason.top/sc/ztxw_fhd.m3u8
@@ -53,46 +55,50 @@ CCTV13,http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8
 CCTV13,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctvxw/1300000/mnf.m3u8
 CCTV14,http://223.110.243.157/ott.js.chinamobile.com/PLTV/3/224/3221227656/index.m3u8
 CCTV15,http://223.110.243.154/ott.js.chinamobile.com/PLTV/3/224/3221227723/index.m3u8
+
+央视FHD,#genre#
 CCTV1 FHD,http://39.135.129.167/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221225977/index.m3u8
 CCTV1 FHD,http://39.135.129.167/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226190/index.m3u8
 CCTV1 FHD,http://39.135.129.167/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226675/index.m3u8
 CCTV1 FHD,http://39.135.129.167/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226880/index.m3u8
-CCTV-1 FHD,http://39.135.129.164/PLTV/88888888/224/3221226754/1.m3u8
+CCTV1 FHD,http://39.135.129.164/PLTV/88888888/224/3221226754/1.m3u8
 CCTV1 FHD,http://39.135.129.166/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226721/index.m3u8
 CCTV1 FHD,http://39.135.129.165/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226979/index.m3u8
 CCTV2 FHD,http://39.135.129.167/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226178/index.m3u8
 CCTV2 FHD,http://39.135.129.163/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226703/index.m3u8
 CCTV2 FHD,http://39.135.129.165/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226711/index.m3u8
-CCTV-2 FHD,http://39.135.129.162/PLTV/88888888/224/3221226417/1.m3u8
+CCTV2 FHD,http://39.135.129.162/PLTV/88888888/224/3221226417/1.m3u8
 CCTV3 FHD,http://39.135.129.167/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226861/index.m3u8
-CCTV-3 FHD,http://39.135.129.164/PLTV/88888888/224/3221226689/1.m3u8
+CCTV3 FHD,http://39.135.129.164/PLTV/88888888/224/3221226689/1.m3u8
 CCTV4 FHD,http://39.135.129.163/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226176/index.m3u8
 CCTV4 FHD,http://39.135.129.163/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226692/index.m3u8
-CCTV-4 欧洲 FHD,http://39.135.129.162/PLTV/88888888/224/3221226731/1.m3u8
+CCTV4 欧洲 FHD,http://39.135.129.162/PLTV/88888888/224/3221226731/1.m3u8
 CCTV4 FHD,http://39.135.129.165/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226899/index.m3u8
 CCTV5 FHD,http://39.135.129.163/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226944/index.m3u8
 CCTV5 FHD,http://39.135.129.167/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226864/index.m3u8
 CCTV5 FHD,http://39.135.129.162/PLTV/88888888/224/3221226802/1.m3u8
 CCTV5 FHD,http://39.135.129.164/PLTV/88888888/224/3221226714/1.m3u8
 CCTV5+ FHD,http://39.135.129.165/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226745/index.m3u8
-CCTV-5+ FHD,http://39.135.129.162/PLTV/88888888/224/3221226445/1.m3u8
+CCTV5+ FHD,http://39.135.129.162/PLTV/88888888/224/3221226445/1.m3u8
 CCTV6 FHD,http://39.135.129.164/PLTV/88888888/224/3221226753/1.m3u8
 CCTV7 FHD,http://39.135.129.165/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226175/index.m3u8
-CCTV-7 FHD,http://39.135.129.162/PLTV/88888888/224/3221226143/1.m3u8
-CCTV-8 FHD,http://39.135.129.164/PLTV/88888888/224/3221226116/1.m3u8
-CCTV-8 FHD,http://39.135.129.166/PLTV/88888888/224/3221226804/1.m3u8
+CCTV7 FHD,http://39.135.129.162/PLTV/88888888/224/3221226143/1.m3u8
+CCTV8 FHD,http://39.135.129.164/PLTV/88888888/224/3221226116/1.m3u8
+CCTV8 FHD,http://39.135.129.166/PLTV/88888888/224/3221226804/1.m3u8
 CCTV9 FHD,http://39.135.129.163/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226734/index.m3u8
 CCTV10 FHD,http://39.135.129.165/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226702/index.m3u8
-CCTV-10 FHD,http://39.135.129.164/PLTV/88888888/224/3221226462/1.m3u8
+CCTV10 FHD,http://39.135.129.164/PLTV/88888888/224/3221226462/1.m3u8
 CCTV12 FHD,http://39.135.129.163/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226736/index.m3u8
-CCTV-12 FHD,http://39.135.129.162/PLTV/88888888/224/3221226439/1.m3u8
+CCTV12 FHD,http://39.135.129.162/PLTV/88888888/224/3221226439/1.m3u8
 CCTV14 FHD,http://39.135.129.163/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226720/index.m3u8
-CCTV-14 FHD,http://39.135.129.162/PLTV/88888888/224/3221226464/1.m3u8
+CCTV14 FHD,http://39.135.129.162/PLTV/88888888/224/3221226464/1.m3u8
 CCTV17 FHD,http://39.135.129.165/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226841/index.m3u8
-CCTV-17 FHD,http://39.135.129.164/PLTV/88888888/224/3221226594/1.m3u8
+CCTV17 FHD,http://39.135.129.164/PLTV/88888888/224/3221226594/1.m3u8
 CGTN法语 FHD,http://39.135.129.164/PLTV/88888888/224/3221226727/1.m3u8
 CGTN阿语 FHD,http://39.135.129.162/PLTV/88888888/224/3221226729/1.m3u8
 CGTN俄语 FHD,http://39.135.129.166/PLTV/88888888/224/3221226772/1.m3u8
+
+央视SD,#genre#
 CCTV1 SD,http://39.135.129.167/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226179/index.m3u8
 CCTV1 SD,http://39.135.129.167/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226759/index.m3u8
 CCTV1 SD,http://39.135.129.167/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226920/index.m3u8
@@ -156,6 +162,8 @@ CCTV17 SD,http://39.135.129.163/hwottcdn.ln.chinamobile.com/PLTV/-/224/322122690
 辽宁卫视 FHD,http://39.135.129.167/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226156/index.m3u8
 辽宁卫视 FHD,http://39.135.129.163/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226731/index.m3u8
 辽宁卫视 FHD,http://39.135.129.167/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226689/index.m3u8
+
+卫视SD,#genre#
 教育1台 SD,http://39.135.129.167/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226732/index.m3u8
 教育3台 SD,http://39.135.129.163/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226950/index.m3u8
 教育4台 SD,http://39.135.129.163/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226940/index.m3u8
@@ -690,4 +698,3 @@ IHOT爱玩具,http://117.148.179.31/PLTV/88888888/224/3221230026/index.m3u8
 IHOT爱玩具,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230026/index.m3u8
 IHOT爱悬疑,http://117.148.179.41/PLTV/88888888/224/3221230098/index.m3u8
 IHOT爱悬疑,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230098/index.m3u8
-
