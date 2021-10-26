@@ -1,27 +1,27 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="大爱电视",慈济共修
-https://pull.asia.uurtc.com/tzuchi/anyrtcej8mzJr0U1ZT_xfx1l/playlist.m3u8?wsSecret=db9244e2eb4ce81c59fdde8f3b5bc22b&wsTime=1635139809&keeptime=86400
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="大爱电视",大爱1
+#EXTINF:-1 tvg-id="" tvg-name="慈济共修" tvg-logo="" group-title="大爱电视",慈济共修
+https://pull.asia.uurtc.com/tzuchi/anyrtcej8mzJr0U1ZT_xfx1l/playlist.m3u8?wsSecret=81c8e3553c1735eb0264edb3f67b8207&wsTime=1635226318&keeptime=86400
+#EXTINF:-1 tvg-id="" tvg-name="大爱1" tvg-logo="" group-title="大爱电视",大爱1
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="大爱电视",大爱2
+#EXTINF:-1 tvg-id="" tvg-name="大爱2" tvg-logo="" group-title="大爱电视",大爱2
 https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 #EXTINF:-1 tvg-id="6140" tvg-name="BloombergTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png" group-title="港澳台",Bloomberg TV Asia
 https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",Celestial Movies
+#EXTINF:-1 tvg-id="" tvg-name="Celestial Movies" tvg-logo="" group-title="港澳台",Celestial Movies
 http://210.210.155.35/qwr9ew/s/s33/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",CTI TV
+#EXTINF:-1 tvg-id="" tvg-name="CTI TV" tvg-logo="" group-title="港澳台",CTI TV
 http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UC5l1Yto5oOIgRXlI4p4VKbw/live
 #EXTINF:-1 tvg-id="6138" tvg-name="幸福空间居家台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/gstv.png" group-title="港澳台",GSTV
 http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UCoo-jAsJgM8z09ddlhcBlSA/live
 #EXTINF:-1 tvg-id="691" tvg-name="国家地理频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="港澳台",National Geographic
 http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",中天新闻
+#EXTINF:-1 tvg-id="" tvg-name="中天新闻" tvg-logo="" group-title="港澳台",中天新闻
 http://seb.sason.top/sc/ztxw_fhd.m3u8
 #EXTINF:-1 tvg-id="6143" tvg-name="台视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视新闻.png" group-title="港澳台",台视新闻
 http://seb.sason.top/sc/tsxw_fhd.m3u8
 #EXTINF:-1 tvg-id="7229" tvg-name="唯心电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/weixin.png" group-title="港澳台",唯心电视
 http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",壹电视
+#EXTINF:-1 tvg-id="" tvg-name="壹电视" tvg-logo="" group-title="未分类",壹电视
 http://stream.nexttv.com.tw/n001/hd/live.m3u8
 #EXTINF:-1 tvg-id="6069" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="港澳台",东森新闻
 http://seb.sason.top/sc/dsxw_fhd.m3u8
@@ -133,13 +133,13 @@ http://39.135.129.163/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226692/index.m3
 http://39.135.129.162/PLTV/88888888/224/3221226731/1.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV4 FHD
 http://39.135.129.165/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226899/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视",CCTV5 FHD
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5" tvg-logo="" group-title="央视",CCTV5 FHD
 http://39.135.129.163/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226944/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视",CCTV5 FHD
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5" tvg-logo="" group-title="央视",CCTV5 FHD
 http://39.135.129.167/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226864/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视",CCTV5 FHD
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5" tvg-logo="" group-title="央视",CCTV5 FHD
 http://39.135.129.162/PLTV/88888888/224/3221226802/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视",CCTV5 FHD
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5" tvg-logo="" group-title="央视",CCTV5 FHD
 http://39.135.129.164/PLTV/88888888/224/3221226714/1.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV5+ FHD
 http://39.135.129.165/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226745/index.m3u8
@@ -423,25 +423,25 @@ http://185.207.176.189:8080/channels/tv-85/playlist.m3u8#https://cdn.hkdtmb.com/
 http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
 #EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="港澳台",ViuTVsix
 http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",RHK31
+#EXTINF:-1 tvg-id="" tvg-name="RHK31" tvg-logo="" group-title="港澳台",RHK31
 http://185.207.176.189:8080/channels/tv-31/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",RHK32
+#EXTINF:-1 tvg-id="" tvg-name="RHK32" tvg-logo="" group-title="港澳台",RHK32
 http://185.207.176.189:8080/channels/tv-32/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",RHK33
+#EXTINF:-1 tvg-id="" tvg-name="RHK33" tvg-logo="" group-title="港澳台",RHK33
 http://185.207.176.189:8080/channels/tv-33/playlist.m3u8
 #EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="港澳台",HKC有线新闻台
 https://api.leonardpark.dev/live/icable/109
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",HKC有线财经资讯台
+#EXTINF:-1 tvg-id="" tvg-name="HKC有线财经资讯台" tvg-logo="" group-title="港澳台",HKC有线财经资讯台
 https://api.leonardpark.dev/live/icable/108
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",HKC有线直播新闻台
+#EXTINF:-1 tvg-id="" tvg-name="HKC有线直播新闻台" tvg-logo="" group-title="港澳台",HKC有线直播新闻台
 https://api.leonardpark.dev/live/icable/110
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",Now直播331台
+#EXTINF:-1 tvg-id="" tvg-name="Now直播331台" tvg-logo="" group-title="港澳台",Now直播331台
 https://api.leonardpark.dev/live/now/331
 #EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="港澳台",HKC有线新闻台
 https://www.navchina.cf/IPTV/icable.php?id=37
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",HKC有线财经资讯台
+#EXTINF:-1 tvg-id="" tvg-name="HKC有线财经资讯台" tvg-logo="" group-title="港澳台",HKC有线财经资讯台
 https://www.navchina.cf/IPTV/icable.php?id=38
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",HKC有线直播新闻台
+#EXTINF:-1 tvg-id="" tvg-name="HKC有线直播新闻台" tvg-logo="" group-title="港澳台",HKC有线直播新闻台
 https://www.navchina.cf/IPTV/icable.php?id=39
 #EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳台",无线新闻
 http://190.2.133.47:8278/streams/d/Inews/playlist.m3u8
@@ -449,13 +449,13 @@ http://190.2.133.47:8278/streams/d/Inews/playlist.m3u8
 http://www.chahaoquan.com/wz/epg/tvb.php?id=1
 #EXTINF:-1 tvg-id="131" tvg-name="TVB星河频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB星河.png" group-title="港澳台",TVB星河
 http://50.7.161.82:8278/streams/d/Xinhe/./playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",TVBL
+#EXTINF:-1 tvg-id="" tvg-name="TVBL" tvg-logo="" group-title="港澳台",TVBL
 https://edge6a.v2h-cdn.com/RE_HD/TVB_HD.stream_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",Now新闻332台
+#EXTINF:-1 tvg-id="" tvg-name="Now新闻332台" tvg-logo="" group-title="港澳台",Now新闻332台
 http://livetv.dnsfor.me:80/channel.4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",Now直播331台
+#EXTINF:-1 tvg-id="" tvg-name="Now直播331台" tvg-logo="" group-title="港澳台",Now直播331台
 http://livetv.dnsfor.me:80/channel.3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",Now Sports Prime
+#EXTINF:-1 tvg-id="" tvg-name="Now Sports Prime" tvg-logo="" group-title="港澳台",Now Sports Prime
 http://livetv.dnsfor.me/channel.12.m3u8
 #EXTINF:-1 tvg-id="7118" tvg-name="香港开电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="港澳台",香港开电视
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
@@ -477,13 +477,13 @@ http://stream.guihet.com/t/ifeng2.php?id=1
 http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰资讯
 http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",天映经典HD
+#EXTINF:-1 tvg-id="" tvg-name="天映经典" tvg-logo="" group-title="港澳台",天映经典HD
 http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",天映电影HD
 http://50.7.161.82:8278/streams/d/celestial_pye/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",经典功夫台
+#EXTINF:-1 tvg-id="" tvg-name="天映电影" tvg-logo="" group-title="港澳台",经典功夫台
 http://103.140.229.13/BOBO/bibi.php?id=21715386
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",经典功夫台
+#EXTINF:-1 tvg-id="" tvg-name="经典功夫台" tvg-logo="" group-title="港澳台",经典功夫台
 http://ftp9524803.host166.gotoip4.cn/bilibili.php?id=21715386
 #EXTINF:-1 tvg-id="7135" tvg-name="民视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/民视.png" group-title="港澳台",民视
 rtmp://59.124.75.136/sat/tv051
@@ -503,7 +503,7 @@ rtmp://59.124.75.136/sat/tv571
 rtmp://59.124.75.136/sat/tv701
 #EXTINF:-1 tvg-id="6090" tvg-name="纬来体育台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" group-title="港澳台",纬来体育
 rtmp://59.124.75.136/sat/tv721
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",eleven1
+#EXTINF:-1 tvg-id="" tvg-name="eleven1" tvg-logo="" group-title="港澳台",eleven1
 rtmp://59.124.75.136/sat/tv731
 #EXTINF:-1 tvg-id="7149" tvg-name="ELEVEN体育二台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elevensports2.png" group-title="港澳台",eleven2
 rtmp://59.124.75.136/sat/tv741
@@ -511,19 +511,19 @@ rtmp://59.124.75.136/sat/tv741
 rtmp://59.124.75.136/sat/tv761
 #EXTINF:-1 tvg-id="6095" tvg-name="纬来日本台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandJapanese.png" group-title="港澳台",纬来日本
 rtmp://59.124.75.136/sat/tv771
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",日本体育
+#EXTINF:-1 tvg-id="" tvg-name="日本体育" tvg-logo="" group-title="港澳台",日本体育
 rtmp://59.124.75.136/sat/jp01
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",CBS SPROTS
+#EXTINF:-1 tvg-id="" tvg-name="CBS SPROTS" tvg-logo="" group-title="港澳台",CBS SPROTS
 rtmp://59.124.75.136/sat/us231
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",DYFY
+#EXTINF:-1 tvg-id="" tvg-name="DYFY" tvg-logo="" group-title="港澳台",DYFY
 rtmp://59.124.75.136/sat/us241
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",ESPN2
+#EXTINF:-1 tvg-id="" tvg-name="ESPN2" tvg-logo="" group-title="港澳台",ESPN2
 rtmp://59.124.75.136/sat/us251
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",SC
+#EXTINF:-1 tvg-id="" tvg-name="SC" tvg-logo="" group-title="港澳台",SC
 rtmp://59.124.75.136/sat/us261
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",SC
+#EXTINF:-1 tvg-id="" tvg-name="SC" tvg-logo="" group-title="港澳台",SC
 rtmp://59.124.75.136/sat/us271
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",SC
+#EXTINF:-1 tvg-id="" tvg-name="SC" tvg-logo="" group-title="港澳台",SC
 rtmp://59.124.75.136/sat/us281
 #EXTINF:-1 tvg-id="6069" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="港澳台",东森新闻
 http://50.7.61.147:30080/Entry/etnews
@@ -549,7 +549,7 @@ http://50.7.61.147:30080/Entry/tlc
 http://50.7.61.147:30080/Entry/jet
 #EXTINF:-1 tvg-id="7135" tvg-name="民视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/民视.png" group-title="港澳台",民视
 http://50.7.61.147:30080/Entry/ftv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",华视
+#EXTINF:-1 tvg-id="" tvg-name="华视" tvg-logo="" group-title="港澳台",华视
 http://50.7.61.147:30080/Entry/cts
 #EXTINF:-1 tvg-id="6067" tvg-name="壹电视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NextTVNews.png" group-title="港澳台",壹新闻 HD
 http://50.7.61.147:30080/Entry/etv
@@ -571,15 +571,15 @@ http://58.99.33.16:1935/liveedge17/live_172_3.stream/chunklist.m3u8
 http://58.99.33.16:1935/liveedge17/live_244_3.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="7182" tvg-name="智林体育" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/智林体育台.png" group-title="港澳台",智林体育台
 http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",中台湾生活网
+#EXTINF:-1 tvg-id="" tvg-name="中台湾生活网" tvg-logo="" group-title="港澳台",中台湾生活网
 http://58.99.33.16:1935/liveedge17/live_852_3.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",中台湾生活网
+#EXTINF:-1 tvg-id="" tvg-name="中台湾生活网" tvg-logo="" group-title="港澳台",中台湾生活网
 http://58.99.33.16:1935/liveedge17/live_853_3.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",中台湾生活网
+#EXTINF:-1 tvg-id="" tvg-name="中台湾生活网" tvg-logo="" group-title="港澳台",中台湾生活网
 http://58.99.33.16:1935/liveedge17/live_854_3.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",中台湾生活网
+#EXTINF:-1 tvg-id="" tvg-name="中台湾生活网" tvg-logo="" group-title="港澳台",中台湾生活网
 http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",MAVlife
+#EXTINF:-1 tvg-id="" tvg-name="MAVlife" tvg-logo="" group-title="港澳台",MAVlife
 http://58.99.33.16:1935/liveedge17/live_070_3.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="6042" tvg-name="MOMO亲子台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/MOMOkids.png" group-title="港澳台",momo综合台
 http://58.99.33.16:1935/liveedge17/live_075_3.stream/chunklist.m3u8
@@ -603,9 +603,9 @@ http://seb.sason.top/ptv/ftv.php?id=tw
 http://seb.sason.top/ptv/ftv.php?id=yj
 #EXTINF:-1 tvg-id="7145" tvg-name="民视综艺台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ftv-zongyi.png" group-title="港澳台",民视综艺
 http://seb.sason.top/ptv/ftv.php?id=zy
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",民视旅游
+#EXTINF:-1 tvg-id="" tvg-name="民视旅游" tvg-logo="" group-title="港澳台",民视旅游
 http://seb.sason.top/ptv/ftv.php?id=ly
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",中天新闻 HD
+#EXTINF:-1 tvg-id="" tvg-name="中天新闻" tvg-logo="" group-title="港澳台",中天新闻 HD
 http://seb.sason.top/sc/ztxw_fhd.m3u8
 #EXTINF:-1 tvg-id="6069" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="港澳台",东森新闻 HD
 http://seb.sason.top/sc/dsxw_fhd.m3u8
@@ -613,7 +613,7 @@ http://seb.sason.top/sc/dsxw_fhd.m3u8
 http://seb.sason.top/sc/dscjxw_fhd.m3u8
 #EXTINF:-1 tvg-id="6108" tvg-name="三立财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETInews.png" group-title="港澳台",三立iNews
 http://seb.sason.top/sc/slinews_fhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",三立Live新闻
+#EXTINF:-1 tvg-id="" tvg-name="三立Live新闻" tvg-logo="" group-title="港澳台",三立Live新闻
 http://seb.sason.top/sc/sllive_fhd.m3u8
 #EXTINF:-1 tvg-id="6047" tvg-name="三立台湾台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETTaiwan.png" group-title="港澳台",三立台湾
 https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on
@@ -843,23 +843,23 @@ rtmp://161.202.204.248/sat/md031
 rtmp://161.202.204.248/sat/md041
 #EXTINF:-1 tvg-id="7212" tvg-name="爱尔达体育1" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eata_sports1.png" group-title="体育",爱尔达体育1
 rtmp://161.202.204.248/sat/md051
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育",有线18台
+#EXTINF:-1 tvg-id="" tvg-name="有线18台" tvg-logo="" group-title="体育",有线18台
 rtmp://161.202.204.248/sat/hk041
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育",ELEVEN SPORTS 1 HD[1280*7
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 1" tvg-logo="" group-title="体育",ELEVEN SPORTS 1 HD[1280*7
 http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
 #EXTINF:-1 tvg-id="7149" tvg-name="ELEVEN体育二台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elevensports2.png" group-title="港澳台",ELEVEN SPORTS 2 HD[960*54
 http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育",TNTSPORTS 1[1280*720]
+#EXTINF:-1 tvg-id="" tvg-name="TNTSPORTS 1" tvg-logo="" group-title="体育",TNTSPORTS 1[1280*720]
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育",TNTSPORTS 2[1280*720]
+#EXTINF:-1 tvg-id="" tvg-name="TNTSPORTS 2" tvg-logo="" group-title="体育",TNTSPORTS 2[1280*720]
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育",TNTSPORTS 3[1280*720]
+#EXTINF:-1 tvg-id="" tvg-name="TNTSPORTS 3" tvg-logo="" group-title="体育",TNTSPORTS 3[1280*720]
 https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育",TNTSPORTS 4[1280*720]
+#EXTINF:-1 tvg-id="" tvg-name="TNTSPORTS 4" tvg-logo="" group-title="体育",TNTSPORTS 4[1280*720]
 https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育",TNTSPORTS 5[1280*720]
+#EXTINF:-1 tvg-id="" tvg-name="TNTSPORTS 5" tvg-logo="" group-title="体育",TNTSPORTS 5[1280*720]
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育",Canal+ Sport HD[1280*720]
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Sport" tvg-logo="" group-title="体育",Canal+ Sport HD[1280*720]
 http://207.110.52.61:8080/s/hls/5/293/canal_plus_sport_polska_250/1/1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="新闻",CCTV13
 http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8
