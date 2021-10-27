@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="慈济共修" tvg-logo="" group-title="大爱电视",慈济共修
-https://pull.asia.uurtc.com/tzuchi/anyrtcej8mzJr0U1ZT_xfx1l/playlist.m3u8?wsSecret=81c8e3553c1735eb0264edb3f67b8207&wsTime=1635226318&keeptime=86400
 #EXTINF:-1 tvg-id="" tvg-name="大爱1" tvg-logo="" group-title="大爱电视",大爱1
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="大爱2" tvg-logo="" group-title="大爱电视",大爱2
