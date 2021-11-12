@@ -256,7 +256,6 @@ TVB星河,http://gxfrg007.8800.org:8282/tsfile/live/1062_1.m3u8
 凤凰香港,http://gxfrg007.8800.org:8282/tsfile/live/1065_1.m3u8
 凤凰资讯,http://gxfrg007.8800.org:8282/tsfile/live/1064_1.m3u8
 
-港台外网,#genre#
 明珠台,http://host496323.us.ooqr.com/pltv/gz.php?id=26
 翡翠台,http://host496323.us.ooqr.com/pltv/gz.php?id=25
 翡翠台,http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
@@ -285,7 +284,9 @@ Now直播331台,http://livetv.dnsfor.me:80/channel.3.m3u8
 Now Sports Prime,http://livetv.dnsfor.me/channel.12.m3u8
 香港开电视,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 
-台湾頻道,#genre#
+
+台湾频道,#genre#
+
 东森新闻,http://50.7.61.147:30080/Entry/etnews
 HBO,http://50.7.61.148:30080/Entry/hbo
 纬来日本,http://50.7.61.147:30080/Entry/vljp
@@ -365,6 +366,26 @@ National Geographic,http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 民視,http://seb.sason.top/ptv/ftv.php?id=ms
 民視台灣,http://seb.sason.top/ptv/ftv.php?id=tw
 
+民视,rtmp://59.124.75.136/sat/tv051
+台视,rtmp://59.124.75.136/sat/tv071
+中视,rtmp://59.124.75.136/sat/tv091
+华视,rtmp://59.124.75.136/sat/tv111
+TVBS欢乐台,rtmp://59.124.75.136/sat/tv421
+TVBS新闻台,rtmp://59.124.75.136/sat/tv551
+东森财经新闻,rtmp://59.124.75.136/sat/tv571
+纬来育乐,rtmp://59.124.75.136/sat/tv701
+纬来体育,rtmp://59.124.75.136/sat/tv721
+eleven1,rtmp://59.124.75.136/sat/tv731
+eleven2,rtmp://59.124.75.136/sat/tv741
+MoMo综合台,rtmp://59.124.75.136/sat/tv761
+纬来日本,rtmp://59.124.75.136/sat/tv771
+日本体育,rtmp://59.124.75.136/sat/jp01
+CBS SPROTS,rtmp://59.124.75.136/sat/us231
+DYFY,rtmp://59.124.75.136/sat/us241
+ESPN2,rtmp://59.124.75.136/sat/us251
+SC,rtmp://59.124.75.136/sat/us261
+SC,rtmp://59.124.75.136/sat/us271
+SC,rtmp://59.124.75.136/sat/us281
 
 🇲🇾马来西亚,#genre#
 Astro AOD,http://50.7.161.82:8277/streams/d/aod_pye/playlist.m3u8
