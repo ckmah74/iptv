@@ -3,8 +3,6 @@
 大愛二臺,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 大愛海外頻道,https://pulltv3.wanfudaluye.com/live/tv3.m3u8
 
-
-
 央视高清1,#genre#
 CCTV1,http://39.135.138.60:18890/PLTV/88888910/224/3221225618/index.m3u8#http://39.135.138.59:18890/PLTV/88888910/224/3221225642/index.m3u8
 CCTV2,http://39.135.138.60:18890/PLTV/88888910/224/3221225619/index.m3u8#http://39.135.138.60:18890/PLTV/88888910/224/3221225643/index.m3u8
@@ -83,7 +81,6 @@ CCTV-17 FHD,http://39.135.129.164/PLTV/88888888/224/3221226594/1.m3u8
 CGTN法语 FHD,http://39.135.129.164/PLTV/88888888/224/3221226727/1.m3u8
 CGTN阿语 FHD,http://39.135.129.162/PLTV/88888888/224/3221226729/1.m3u8
 CGTN俄语 FHD,http://39.135.129.166/PLTV/88888888/224/3221226772/1.m3u8
-
 
 央视SD,#genre#
 CCTV1 SD,http://39.135.129.167/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226179/index.m3u8
@@ -207,7 +204,7 @@ RHK31,https://cdn-cn.hkdtmb.com/hls/31/index.m3u8
 RHK32,https://cdn-cn.hkdtmb.com/hls/32/index.m3u8
 香港开电视,https://cdn-cn.hkdtmb.com/hls/77/index.m3u8
 
-港台頻道,#genre#
+香港頻道,#genre#
 翡翠台广东,http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=188&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=1&Pcontent_id=.m3u8&Provider_id=
 翡翠台广东,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 翡翠台广东,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=188
@@ -357,17 +354,6 @@ Cnex[640*360],http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv013
 韓國娛樂[640*360],http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv016
 達文西[640*360],http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv018
 
-CTI TV Asia,http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UC5l1Yto5oOIgRXlI4p4VKbw/live
-GSTV,http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UCoo-jAsJgM8z09ddlhcBlSA/live
-National Geographic,http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
-中天新聞,http://seb.sason.top/sc/ztxw_fhd.m3u8
-台視新聞,http://seb.sason.top/sc/tsxw_fhd.m3u8
-唯心電視,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
-壹電視,http://stream.nexttv.com.tw/n001/hd/live.m3u8
-東森新聞,http://seb.sason.top/sc/dsxw_fhd.m3u8
-民視,http://seb.sason.top/ptv/ftv.php?id=ms
-民視台灣,http://seb.sason.top/ptv/ftv.php?id=tw
-
 民视,rtmp://59.124.75.136/sat/tv051
 台视,rtmp://59.124.75.136/sat/tv071
 中视,rtmp://59.124.75.136/sat/tv091
@@ -388,6 +374,17 @@ ESPN2,rtmp://59.124.75.136/sat/us251
 SC,rtmp://59.124.75.136/sat/us261
 SC,rtmp://59.124.75.136/sat/us271
 SC,rtmp://59.124.75.136/sat/us281
+
+CTI TV Asia,http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UC5l1Yto5oOIgRXlI4p4VKbw/live
+GSTV,http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UCoo-jAsJgM8z09ddlhcBlSA/live
+National Geographic,http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
+中天新聞,http://seb.sason.top/sc/ztxw_fhd.m3u8
+台視新聞,http://seb.sason.top/sc/tsxw_fhd.m3u8
+唯心電視,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+壹電視,http://stream.nexttv.com.tw/n001/hd/live.m3u8
+東森新聞,http://seb.sason.top/sc/dsxw_fhd.m3u8
+民視,http://seb.sason.top/ptv/ftv.php?id=ms
+民視台灣,http://seb.sason.top/ptv/ftv.php?id=tw
 
 🇲🇾马来西亚,#genre#
 Astro AOD,http://50.7.161.82:8277/streams/d/aod_pye/playlist.m3u8
@@ -428,11 +425,13 @@ Sukan,http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
 RTM Sports,http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
 
 Astro Awani,https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
+Astro Awani,https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 Astro Vaanavil,https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5.m3u8
-Ceria,http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
+Astro Ceria,http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 Celestial Movies,http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 TVIKIM,http://edge.vediostream.com/abr/tvikim/playlist.m3u8
 TVS,https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
+Maah TV,http://51.210.199.33/hls/stream.m3u8
 
 🇯🇵日本頻道,#genre#
 NHK,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
@@ -747,91 +746,6 @@ NewTV精品综合,http://117.148.179.40/PLTV/88888888/224/3221229005/index.m3u8
 NewTV精品综合,http://117.148.179.37/PLTV/88888888/224/3221229660/index.m3u8
 NewTV热播精选,http://117.148.179.15/PLTV/88888888/224/3221229062/index.m3u8
 NewTV热播精选,http://117.148.179.37/PLTV/88888888/224/3221229654/index.m3u8
-
-IHOT,#genre#
-IHOT爱猎奇,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230097/index.m3u8
-IHOT爱娱乐,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230077/index.m3u8
-IHOT爱幼教,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230086/index.m3u8
-IHOT爱电竞,http://117.148.179.31/PLTV/88888888/224/3221230029/index.m3u8
-IHOT爱电竞,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230029/index.m3u8
-IHOT爱动漫,http://117.148.179.36/PLTV/88888888/224/3221230136/index.m3u8
-IHOT爱动漫,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230136/index.m3u8
-IHOT爱都市,http://117.148.179.13/PLTV/88888888/224/3221230104/index.m3u8
-IHOT爱都市,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230104/index.m3u8
-IHOT爱谍战,http://117.148.179.13/PLTV/88888888/224/3221230092/index.m3u8
-IHOT爱谍战,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230092/index.m3u8
-IHOT爱怀旧,http://117.148.179.41/PLTV/88888888/224/3221230049/index.m3u8
-IHOT爱怀旧,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230049/index.m3u8
-IHOT爱经典,http://117.148.179.34/PLTV/88888888/224/3221230101/index.m3u8
-IHOT爱经典,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230101/index.m3u8
-IHOT爱江湖,http://117.148.179.37/PLTV/88888888/224/3221230074/index.m3u8
-IHOT爱江湖,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230074/index.m3u8
-IHOT爱解密,http://117.148.179.37/PLTV/88888888/224/3221230080/index.m3u8
-IHOT爱解密,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230080/index.m3u8
-IHOT爱家庭,http://117.148.179.34/PLTV/88888888/224/3221230118/index.m3u8
-IHOT爱家庭,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230118/index.m3u8
-IHOT爱军武,http://117.148.179.37/PLTV/88888888/224/3221230083/index.m3u8
-IHOT爱军武,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230083/index.m3u8
-IHOT爱科学,http://117.148.179.27/PLTV/88888888/224/3221230106/index.m3u8
-IHOT爱科学,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230106/index.m3u8
-IHOT爱历史,http://117.148.179.28/PLTV/88888888/224/3221230100/index.m3u8
-IHOT爱历史,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230100/index.m3u8
-IHOT爱旅行,http://117.148.179.34/PLTV/88888888/224/3221230052/index.m3u8
-IHOT爱旅行,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230052/index.m3u8
-IHOT爱美食,http://117.148.179.39/PLTV/88888888/224/3221230115/index.m3u8
-IHOT爱美食,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230115/index.m3u8
-IHOT爱青春,http://117.148.179.35/PLTV/88888888/224/3221230130/index.m3u8
-IHOT爱青春,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230130/index.m3u8
-IHOT爱奇谈,http://117.148.179.31/PLTV/88888888/224/3221230023/index.m3u8
-IHOT爱奇谈,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230023/index.m3u8
-IHOT爱赛车,http://117.148.179.36/PLTV/88888888/224/3221230032/index.m3u8
-IHOT爱赛车,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230032/index.m3u8
-IHOT爱世界,http://117.148.179.34/PLTV/88888888/224/3221230046/index.m3u8
-IHOT爱世界,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230046/index.m3u8
-IHOT爱时尚,http://117.148.179.24/PLTV/88888888/224/3221230109/index.m3u8
-IHOT爱时尚,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230109/index.m3u8
-IHOT爱探索,http://117.148.179.39/PLTV/88888888/224/3221230112/index.m3u8
-IHOT爱探索,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230112/index.m3u8
-IHOT爱体育,http://117.148.179.41/PLTV/88888888/224/3221230034/index.m3u8
-IHOT爱体育,http://117.148.179.27/PLTV/88888888/224/3221230103/index.m3u8
-IHOT爱体育,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230034/index.m3u8
-IHOT爱玩具,http://117.148.179.31/PLTV/88888888/224/3221230026/index.m3u8
-IHOT爱玩具,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230026/index.m3u8
-IHOT爱悬疑,http://117.148.179.41/PLTV/88888888/224/3221230098/index.m3u8
-IHOT爱悬疑,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230098/index.m3u8
-
-音乐频道,#genre#
-Channel [V],https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8#https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/playlist.m3u8
-MTV 音乐频道,http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
-美国MTV,http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
-M2O音乐台,http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
-MTV Yo!,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
-MTV Biggest Pop,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
-MTV Block Party,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
-MTV Spankin' New,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
-MTV WMA,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
-Live Music Replay,http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5873fc21cad696fb37aa9054/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-Classica,http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f779951372da90007fd45e8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-CMT Equal Play,http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f68f53eb1e5800007390bf8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-MTV Block Party,http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d3609cd6a6c78d7672f2a81/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-MTV Spankin\' New,http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d14fdb8ca91eedee1633117/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-MTV Biggest Pop,http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d14fd1a252d35decbc4080c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-Yo! MTV,http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d14fc31252d35decbc4080b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-Vevo Pop,http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-Vevo Latino,http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5da0d64d0e8a62000964ebe4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-Vevo Reggaetón & Trap,http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f32f397795b750007706448/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-Vevo R&B,http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-Vevo Country,http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5da0d75e84830900098a1ea0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-Vevo \'70s,http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-Vevo \'80s,http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7b8bf927e090007685853/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-Vevo \'90s,http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-Vevo 2K,http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-Hillsong Channel,http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d486b87428fe37d8cadba44/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-Privacy Policy,http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5b36abcddfb1f0729a3a7dab/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-新歌速递,rtmp://tx.rtmp.huya.com:1935/huyalive/1099531740262-1099531740262-86382469611257856-2199063603980-10057-A-0-1
-音乐石榴,http://121.12.115.156/tx.hls.huya.com/src/1199512344405-1199512344405-5224693802798678016-2399024812266-10057-A-0-1.m3u8
-歌曲,http://luotuo.ycchenrong.cn/dl/youku.php?id=8034767
-岭南戏曲,http://szlive.grtn.cn/lnxq/sd/live.m3u8
 
 🍵测试,#genre#
 BBC WORLD NEWS,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d42
