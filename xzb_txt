@@ -3,7 +3,7 @@
 大愛二臺,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 大愛海外頻道,https://pulltv3.wanfudaluye.com/live/tv3.m3u8
 
-🇨🇳CCTV央视1,#genre#
+🇨🇳央视1,#genre#
 CCTV1,http://39.135.138.60:18890/PLTV/88888910/224/3221225618/index.m3u8#http://39.135.138.59:18890/PLTV/88888910/224/3221225642/index.m3u8
 CCTV2,http://39.135.138.60:18890/PLTV/88888910/224/3221225619/index.m3u8#http://39.135.138.60:18890/PLTV/88888910/224/3221225643/index.m3u8
 CCTV3,http://39.135.138.60:18890/PLTV/88888910/224/3221225647/index.m3u8#http://39.135.138.59:18890/PLTV/88888910/224/3221225634/index.m3u8
@@ -40,7 +40,7 @@ CCTV13,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctvxw/1300
 CCTV14,http://223.110.243.157/ott.js.chinamobile.com/PLTV/3/224/3221227656/index.m3u8
 CCTV15,http://223.110.243.154/ott.js.chinamobile.com/PLTV/3/224/3221227723/index.m3u8
 
-🇨🇳CCTV央视2,#genre#
+🇨🇳央视2,#genre#
 CCTV1 FHD,http://39.135.129.167/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221225977/index.m3u8
 CCTV1 FHD,http://39.135.129.167/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226190/index.m3u8
 CCTV1 FHD,http://39.135.129.167/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226675/index.m3u8
@@ -82,7 +82,7 @@ CGTN法语 FHD,http://39.135.129.164/PLTV/88888888/224/3221226727/1.m3u8
 CGTN阿语 FHD,http://39.135.129.162/PLTV/88888888/224/3221226729/1.m3u8
 CGTN俄语 FHD,http://39.135.129.166/PLTV/88888888/224/3221226772/1.m3u8
 
-🇨🇳CCTV央视SD,#genre#
+🇨🇳央视SD,#genre#
 CCTV1 SD,http://39.135.129.167/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226179/index.m3u8
 CCTV1 SD,http://39.135.129.167/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226759/index.m3u8
 CCTV1 SD,http://39.135.129.167/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226920/index.m3u8
@@ -99,7 +99,7 @@ CCTV13 SD,http://39.135.129.167/hwottcdn.ln.chinamobile.com/PLTV/-/224/322122672
 CCTV17 SD,http://39.135.129.163/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226866/index.m3u8
 CCTV17 SD,http://39.135.129.163/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226908/index.m3u8
 
-🛰️卫视高清,#genre#
+🛰️卫视,#genre#
 凤凰中文,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
 凤凰中文,http://117.169.124.43:6610/ysten-businessmobile/live/fhchinese/index.m3u8
 凤凰资讯,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
