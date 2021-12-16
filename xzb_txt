@@ -3,7 +3,7 @@
 大愛二臺,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 大愛海外頻道,https://pulltv3.wanfudaluye.com/live/tv3.m3u8
 
-🇨🇳央视1,#genre#
+央视1,#genre#
 CCTV1,http://39.135.138.60:18890/PLTV/88888910/224/3221225618/index.m3u8#http://39.135.138.59:18890/PLTV/88888910/224/3221225642/index.m3u8
 CCTV2,http://39.135.138.60:18890/PLTV/88888910/224/3221225619/index.m3u8#http://39.135.138.60:18890/PLTV/88888910/224/3221225643/index.m3u8
 CCTV3,http://39.135.138.60:18890/PLTV/88888910/224/3221225647/index.m3u8#http://39.135.138.59:18890/PLTV/88888910/224/3221225634/index.m3u8
@@ -40,7 +40,7 @@ CCTV13,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctvxw/1300
 CCTV14,http://223.110.243.157/ott.js.chinamobile.com/PLTV/3/224/3221227656/index.m3u8
 CCTV15,http://223.110.243.154/ott.js.chinamobile.com/PLTV/3/224/3221227723/index.m3u8
 
-🇨🇳央视2,#genre#
+央视2,#genre#
 CCTV1 FHD,http://39.135.129.167/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221225977/index.m3u8
 CCTV1 FHD,http://39.135.129.167/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226190/index.m3u8
 CCTV1 FHD,http://39.135.129.167/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226675/index.m3u8
@@ -82,7 +82,7 @@ CGTN法语 FHD,http://39.135.129.164/PLTV/88888888/224/3221226727/1.m3u8
 CGTN阿语 FHD,http://39.135.129.162/PLTV/88888888/224/3221226729/1.m3u8
 CGTN俄语 FHD,http://39.135.129.166/PLTV/88888888/224/3221226772/1.m3u8
 
-🇨🇳央视SD,#genre#
+央视SD,#genre#
 CCTV1 SD,http://39.135.129.167/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226179/index.m3u8
 CCTV1 SD,http://39.135.129.167/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226759/index.m3u8
 CCTV1 SD,http://39.135.129.167/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226920/index.m3u8
@@ -502,7 +502,7 @@ National Geographic,http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 民視,http://seb.sason.top/ptv/ftv.php?id=ms
 民視台灣,http://seb.sason.top/ptv/ftv.php?id=tw
 
-🇲🇾马来西亚,#genre#
+马来西亚,#genre#
 Astro AOD,http://50.7.161.82:8277/streams/d/aod_pye/playlist.m3u8
 Astro IQIYI,http://50.7.161.82:8277/streams/d/iqiyi_pye/playlist.m3u8
 Astro 双星,http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
@@ -549,7 +549,7 @@ TVIKIM,http://edge.vediostream.com/abr/tvikim/playlist.m3u8
 TVS,https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
 Maah TV,http://51.210.199.33/hls/stream.m3u8
 
-🇯🇵日本頻道,#genre#
+日本頻道,#genre#
 
 NHK,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 GEM,http://210.210.155.35:80/uq2663/h/h19/01.m3u8
@@ -564,7 +564,7 @@ Animax HD[1280*720],https://livecdn.fptplay.net/hda3/animaxport_hls.smil/chunkli
 AnimaxHD[1280*720],https://livecdn.fptplay.net/hda3/animaxport_2000.stream/.m3u8
 
 
-🇰🇷韩国頻道,#genre#
+韩国頻道,#genre#
 Oh!K hd,http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
 Sony One50,http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
 
@@ -593,7 +593,7 @@ Jasmin TV,http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 선거방송[1280*720][1280*720],http://necgokr2-724.acs.wecandeo.com/ms/2528/724/index_1.m3u8
 
 
-🇺🇳海外頻道,#genre#
+海外頻道,#genre#
 HGTV,http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 HBO Malaysia,http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 ANIMAL PLANET,http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
@@ -1713,7 +1713,7 @@ EYE TV戲劇台,mitv://ns2.hellotvvod.com:9906/446502d9b45941efb5bf52f21a282471
 
 
 
-🇭🇰香港频道
+香港频道2
 翡翠台,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=10&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 翡翠台,http://116.199.5.51:8114/00000000/2e368e04c76446bc9d30ca7a9f934dae/index.m3u8?Fsv_cid=1034&Fsv_chan_hls_se_idx=188&Fsv_ctype=LIVES&version=9&Fsv_rate_id=1&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=7f88be5fb6fd426494f6aa240f1dc7a9&Provider_id=00000000&Fsv_filetype=1&Fsv_ShiftEnable=0&Fsv_SV_PARAM1=0&Fsv_ShiftTsp=240&Fsv_CMSID=00000000&AuthInfo=P2ZSH2gNMZ8aiVfV%2BjCYczoGsAYoDo4KY5I3eHfJhGTKdSzgLwCHoSet9it9fXrMLwehJxh9gmO%2F%0AOFrWyxI%2BtteLTJnZKT7Lg8BRYQNXMQU%3D%0A
 翡翠台,http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
@@ -1765,7 +1765,7 @@ C+,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/index.m3u8
 香港HKS,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 星卫电影台,http://data.3g.yy.com/live/hls/29900720/29900720
 
-🛰️台湾頻道
+台湾頻道2
 民视,rtmp://59.124.75.157/sat/tv051
 台视,rtmp://59.124.75.157/sat/tv071
 中视,rtmp://59.124.75.157/sat/tv091
@@ -1861,7 +1861,7 @@ FOX频道,http://211.23.114.106:8561/http/116.50.42.19:8081/hls/61/803/ch02.m3u8
 ELEVEN SPORTS 1,http://211.23.114.106:8566/http/59.120.8.187:8078/hls/25/80/esport.m3u8 
 ELEVEN SPORTS 2,http://211.23.114.106:8567/http/59.120.8.187:8078/hls/26/80/esport2.m3u8 
 
-🇲🇴澳门频道,#genre#
+澳门频道2
 澳视澳门,http://103.233.191.133:1935/ch1/ch1.live/playlist.m3u8
 澳视澳门,http://103.233.191.134:1935/ch1/ch1.live/playlist.m3u8
 澳视葡文,http://103.233.191.132:1935/ch2/ch2.live/playlist.m3u8
@@ -1897,7 +1897,7 @@ ELEVEN SPORTS 2,http://211.23.114.106:8567/http/59.120.8.187:8078/hls/26/80/espo
 港开电视,https://cdn.hkdtmb.com/hls/77/index.m3u8
 国际财经,https://cdn.hkdtmb.com/hls/76/index.m3u8
 
-🇲🇾新马频道
+新马频道
 ASTRO 双星,http://185.180.221.194:8278/367b06ceb0/playlist.m3u8?tid=MA6A9167860491678604&ct=18393&tsum=a91c02b45da772304fb1d530514e52a7
 ASTRO AEC HD,http://iptv.tvmalaysia.cc:80/kl570/kl570/6701
 ASTRO AOD 353 HD,http://iptv.tvmalaysia.cc:80/kl570/kl570/6704
