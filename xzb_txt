@@ -2,6 +2,7 @@ $c_start 慈济频道$c_end
 慈济频道,#genre#
 大愛一臺,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大愛二臺,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+大愛臺,http://50.7.218.42:8278/daai_twn/playlist.m3u8?tid=m22178fccc70212656308&ct=17874&tsum=68bbc63cc5cb649ef5df75b1f0296336
 
 $c_start 央视$c_end
 🇨🇳CCTV央视,#genre#
