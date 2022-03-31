@@ -6,33 +6,6 @@ $c_start 慈济频道$c_end
 
 $c_start 央视$c_end
 🇨🇳CCTV央视,#genre#
-CCTV1HD,http://111.11.121.184:6610/030000001001/HD-4000k-1080P-cctv1/1.m3u8?channel-id=ystenlive
-CCTV1HD,http://111.11.121.184:6610/030000001001/HD-2500k-1080P-cctv1/1.m3u8?channel-id=ystenlive
-CCTV1HD,http://111.11.121.184:6610/030000001001/hdcctv01/1.m3u8?channel-id=ystenlive
-CCTV2,http://111.11.121.184:6610/030000001001/cctv-2/1.m3u8?channel-id=ystenlive
-CCTV3HD,http://111.11.121.184:6610/030000001001/cctv-3/1.m3u8?channel-id=ystenlive
-CCTV3HD,http://111.11.121.184:6610/030000001001/HD-2500k-1080P-cctv3/1.m3u8?channel-id=ystenlive
-CCTV4,http://111.11.121.184:6610/030000001001/cctv-4/1.m3u8?channel-id=ystenlive
-CCTV5,http://111.11.121.184:6610/030000001001/cctv-5/1.m3u8?channel-id=ystenlive
-CCTV5,http://111.11.121.184:6610/030000001001/HD-4000k-1080P-cctv5/1.m3u8?channel-id=ystenlive
-CCTV5,http://111.11.121.184:6610/030000001001/HD-2500k-1080P-cctv5/1.m3u8?channel-id=ystenlive
-CCTV5+HD,http://111.11.121.184:6610/030000001001/hdcctv05plus/1.m3u8?channel-id=ystenlive
-CCTV5+HD,http://111.11.121.184:6610/030000001001/HD-2500k-1080P-cctv05plus/1.m3u8?channel-id=ystenlive
-CCTV6HD,http://111.11.121.184:6610/030000001001/cctv-6/1.m3u8?channel-id=ystenlive
-CCTV6HD,http://111.11.121.184:6610/030000001001/HD-2500k-1080P-cctv6/1.m3u8?channel-id=ystenlive
-CCTV7,http://111.11.121.184:6610/030000001001/cctv-7/1.m3u8?channel-id=ystenlive
-CCTV8HD,http://111.11.121.184:6610/030000001001/cctv-8/1.m3u8?channel-id=ystenlive
-CCTV8HD,http://111.11.121.184:6610/030000001001/HD-2500k-1080P-cctv8/1.m3u8?channel-id=ystenlive
-CCTV9FHD,http://111.11.121.184:6610/030000001001/cctv-news/1.m3u8?channel-id=ystenlive
-CCTV10HD,http://111.11.121.184:6610/030000001001/cctv-10/1.m3u8?channel-id=ystenlive
-CCTV11HD,http://111.11.121.184:6610/030000001001/cctv-11/1.m3u8?channel-id=ystenlive
-CCTV12HD,http://111.11.121.184:6610/030000001001/cctv-12/1.m3u8?channel-id=ystenlive
-CCTV13HD,http://111.11.121.184:6610/030000001001/cctv-13/1.m3u8?channel-id=ystenlive
-CCTV14HD,http://111.11.121.184:6610/030000001001/cctv-14/1.m3u8?channel-id=ystenlive
-CCTV15HD,http://111.11.121.184:6610/030000001001/cctv-15/1.m3u8?channel-id=ystenlive
-CCTV奥林匹克HD,http://111.11.121.184:6610/030000001001/HD-4000k-1080P-cctv16/1.m3u8?channel-id=ystenlive
-CCTV17HD,http://111.11.121.184:6610/030000001001/HD-4000k-1080P-cctv17/1.m3u8?channel-id=ystenlive
-CGTN,http://111.11.121.184:6610/030000001001/cctv-9/1.m3u8?channel-id=ystenlive
 CCTV1-综合频道,http://117.148.179.155/PLTV/88888888/224/3221231468/index.m3u8
 CCTV1-综合频道,http://117.148.179.155/PLTV/88888888/224/3221231471/index.m3u8
 CCTV1-综合频道,http://117.148.179.42/PLTV/88888888/224/3221229818/index.m3u8
