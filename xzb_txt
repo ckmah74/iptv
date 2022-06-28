@@ -4,6 +4,31 @@ $c_start 慈济频道$c_end
 大愛二臺,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 大愛臺,http://50.7.218.42:8278/daai_twn/playlist.m3u8?tid=m22178fccc70212656308&ct=17874&tsum=68bbc63cc5cb649ef5df75b1f0296336
 
+Malaysia,#genre#
+Astro Awani,https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
+Astro Vaanavil,https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5.m3u8
+Berita RTM,https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
+Bernama TV,http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCcZg5r9hBqK_VPUT2I7eYVw/live
+CinemaWorld,http://210.210.155.37/dr9445/h/h04/index.m3u8
+CinemaWorld,http://210.210.155.35/dr9445/h/h04/index.m3u8
+Drama Sangat,https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
+Egg Network,http://210.210.155.37/uq2663/h/h22/index.m3u8
+Egg Network,http://210.210.155.35/uq2663/h/h22/index.m3u8
+Hello,https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6.m3u8
+Maah TV,http://51.210.199.33/hls/stream.m3u8
+NTV 7,https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8
+OKEY,https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
+Sukan RTM,https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
+TV1,https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
+TV2,https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
+TV3,https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV3.m3u8
+TV6,https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
+TV8,https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8
+TV9,https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8
+TVIKIM,http://edge.vediostream.com/abr/tvikim/playlist.m3u8
+TVS,https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
+
+
 港臺,#genre#
 翡翠台,mitv://ns2.hellotvvod.com:9906/61ab74d2000c56d914e7a7702f0c341f
 翡翠台,mitv://ns2.hellotvvod.com:9906/5b6bd16bd77340f9b4ab4b6b9c97d25c
