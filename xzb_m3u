@@ -52,20 +52,17 @@ http://edge.vediostream.com/abr/tvikim/playlist.m3u8
 https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
 
 
-
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="新闻",CCTV13
-http://39.135.55.105:6610/PLTV/88888888/224/3221225817/index.m3u8?servicetype=1
 
 
 #EXTINF:-1 tvg-id="1880" tvg-name="BTV新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV新闻.png" group-title="新闻",北京新闻
 http://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8
 
 
-#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="新闻",凤凰资讯
-http://39.135.55.105:6610/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1
-
-#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="新闻",凤凰中文
-http://39.135.55.105:6610/PLTV/88888888/224/3221227222/index.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰资讯
+http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰中文
+http://playtv-live.ifeng.com:80/live/06OLEGEGM4G_tv1.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/117rOCy.png" group-title="新闻",无线新闻
@@ -95,6 +92,7 @@ https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
 http://58.99.33.16:1935/liveedge17/live_156_3.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="6183" tvg-name="Euronews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/euronews.png" group-title="新闻",euronews
+http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/43
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/NBC_News_2011.svg/592px-NBC_News_2011.svg.png" group-title="新闻",NBC NEWS
 http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
@@ -111,12 +109,6 @@ https://tv-trtworld.live.trt.com.tr/master.m3u8
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-id="7100" tvg-name="ABCAustralia" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/abcaus.png" group-title="新闻",ABC Australia
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/O3njZbT.jpg" group-title="新闻",RT
-
-
-
-
 
 
 
@@ -144,7 +136,6 @@ https://vips-livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b5000000.m3u
 
 #EXTINF:-1 tvg-id="discovery" group-title="人文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png",动物星球
 https://vips-livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.m3u8
-
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/mOSIQSc.jpg" group-title="电影",北京IPTV4K
@@ -182,6 +173,7 @@ http://111.20.33.93/PLTV/88888893/224/3221226352/index.m3u8
 #EXTINF:-1 tvg-id="6083" tvg-name="HBO" tvg-logo="https://i.imgur.com/0wBTvVv.jpg" group-title="电影",HBO
 http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8?bycoca
 
+
 #EXTINF:-1 tvg-id="6089" tvg-name="CINEMAX" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CinemaxHD.png" group-title="电影",CINEMAX
 https://livecdn.fptplay.net/hda1/cinemax_hls.smil/chunklist_b2500000.m3u8
 
@@ -195,22 +187,47 @@ https://livecdn.fptplay.net/hda1/cinemax_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/8GHvPqK.jpg" group-title="电影",纬来电影台
 
 
+#EXTINF:-1 group-title="电影",GU古天乐影院
+http://117.148.179.176/PLTV/88888888/224/3221231645/index.m3u8
+#EXTINF:-1 group-title="电影",GU成龙作品集
+http://117.148.179.163/PLTV/88888888/224/3221231687/index.m3u8
+#EXTINF:-1 group-title="电影",GU郭富城影院
+http://117.148.179.152/PLTV/88888888/224/3221231688/index.m3u8
+#EXTINF:-1 group-title="电影",GU张国荣影院
+http://117.148.179.177/PLTV/88888888/224/3221231790/index.m3u8
+#EXTINF:-1 group-title="电影",GU高分影院
+http://117.148.179.182/PLTV/88888888/224/3221231699/index.m3u8
+#EXTINF:-1 group-title="电影",GU周润发影院
+http://117.148.179.177/PLTV/88888888/224/3221231709/index.m3u8
+#EXTINF:-1 group-title="电影",GU怀旧老片
+http://117.148.179.146/PLTV/88888888/224/3221231513/index.m3u8
+#EXTINF:-1 group-title="电影",GU周星驰影院
+http://117.148.179.153/PLTV/88888888/224/3221231562/index.m3u8
+#EXTINF:-1 group-title="电影",GU午夜失眠剧场
+http://117.148.179.141/PLTV/88888888/224/3221231516/index.m3u8
+#EXTINF:-1 group-title="电影",GU吴京作品集
+http://117.148.179.183/PLTV/88888888/224/3221231564/index.m3u8
+#EXTINF:-1 group-title="电影",GU云上电影院
+http://117.148.179.176/PLTV/88888888/224/3221231565/index.m3u8
+#EXTINF:-1 group-title="电影",GU每日科幻电影
+http://117.148.179.160/PLTV/88888888/224/3221231568/index.m3u8
+#EXTINF:-1 group-title="电影",GU葛优作品集
+http://117.148.179.139/PLTV/88888888/224/3221231754/index.m3u8
+#EXTINF:-1 group-title="电影",GU刘德华影院
+http://117.148.179.154/PLTV/88888888/224/3221231757/index.m3u8
+#EXTINF:-1 group-title="电影",GU僵尸剧场
+http://117.148.179.165/PLTV/88888888/224/3221231742/index.m3u8
 
-
-#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/GyM0ORZ.png" group-title="港澳台",TVBJ1
 https://bcovlive-a.akamaihd.net/f23dfe49b06b45d8878b55b4b6909595/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
 
 #EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="港澳台",J2台
-http://120.84.96.33:808/hls/86/index.m3u8
 
 
-#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="港澳台",明珠台
 
 #EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="港澳台",明珠台
-http://kkmix1.f3322.net:825/hls/ch1/s.m3u8
 
 
 
@@ -222,6 +239,8 @@ https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/53240
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="港澳台",无线财经
 http://kkmix1.f3322.net:825/hls/ch2/s.m3u8
 
+
+
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="港澳台",有线新闻台
 https://api.leonardpark.dev/live/icable/109
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxiancaijingzixun.png" group-title="港澳台",有线财经资讯台
@@ -229,12 +248,90 @@ https://api.leonardpark.dev/live/icable/108
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="港澳台",有线直播新闻台
 https://api.leonardpark.dev/live/icable/110
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",中天新闻
+https://ytb.52sf.ga/jmsytb.m3u8?c=1
+#EXTINF:-1 tvg-id="7183" tvg-name="aljazeera" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/aljazeera.png" group-title="港澳台",半岛新闻-英语
+https://ytb.52sf.ga/jmsytb.m3u8?c=2
+#EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="港澳台",民视新闻
+https://ytb.52sf.ga/jmsytb.m3u8?c=3
+#EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="港澳台",TVBS新闻
+https://ytb.52sf.ga/jmsytb.m3u8?c=45
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",TVBS 56
+https://ytb.52sf.ga/jmsytb.m3u8?c=5
+#EXTINF:-1 tvg-id="6143" tvg-name="台视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视新闻.png" group-title="港澳台",台视新闻
+https://ytb.52sf.ga/jmsytb.m3u8?c=6
+#EXTINF:-1 tvg-id="7100" tvg-name="ABCAustralia" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/abcaus.png" group-title="港澳台",ABC News
+https://ytb.52sf.ga/jmsytb.m3u8?c=7
+#EXTINF:-1 tvg-id="7176" tvg-name="中视新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视新闻.png" group-title="港澳台",中视新闻
+https://ytb.52sf.ga/jmsytb.m3u8?c=8
+#EXTINF:-1 tvg-id="6069" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="港澳台",东森新闻
+https://ytb.52sf.ga/jmsytb.m3u8?c=9
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",三立海外
+https://ytb.52sf.ga/jmsytb.m3u8?c=10
+#EXTINF:-1 tvg-id="742" tvg-name="SkyNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SkyNews.png" group-title="港澳台",Sky News
+https://ytb.52sf.ga/jmsytb.m3u8?c=11
+#EXTINF:-1 tvg-id="6075" tvg-name="东森财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" group-title="港澳台",东森财经
+https://ytb.52sf.ga/jmsytb.m3u8?c=12
+#EXTINF:-1 tvg-id="734" tvg-name="france24" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/france24.png" group-title="港澳台",FRANCE 24
+https://ytb.52sf.ga/jmsytb.m3u8?c=13
+#EXTINF:-1 tvg-id="6140" tvg-name="BloombergTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png" group-title="港澳台",Bloomberg Global Financia
+https://ytb.52sf.ga/jmsytb.m3u8?c=14
+#EXTINF:-1 tvg-id="6171" tvg-name="寰宇新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="港澳台",寰宇新闻
+https://ytb.52sf.ga/jmsytb.m3u8?c=15
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",ANN News
+https://ytb.52sf.ga/jmsytb.m3u8?c=16
+#EXTINF:-1 tvg-id="6108" tvg-name="三立财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETInews.png" group-title="港澳台",三立 iNEWS
+https://ytb.52sf.ga/jmsytb.m3u8?c=17
+#EXTINF:-1 tvg-id="730" tvg-name="DW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DW.png" group-title="港澳台",DW News
+https://ytb.52sf.ga/jmsytb.m3u8?c=18
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰中文
+https://ytb.52sf.ga/jmsytb.m3u8?c=19
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",镜新闻
+https://ytb.52sf.ga/jmsytb.m3u8?c=20
+#EXTINF:-1 tvg-id="6069" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="港澳台",东森新闻全球速报
+https://ytb.52sf.ga/jmsytb.m3u8?c=21
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",ENGLISH SPEECH
+https://ytb.52sf.ga/jmsytb.m3u8?c=22
+#EXTINF:-1 tvg-id="7100" tvg-name="ABCAustralia" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/abcaus.png" group-title="港澳台",ABC News-AU
+https://ytb.52sf.ga/jmsytb.m3u8?c=23
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",MBC News
+https://ytb.52sf.ga/jmsytb.m3u8?c=24
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",KBS Kr
+https://ytb.52sf.ga/jmsytb.m3u8?c=25
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",GTV-Drama2
+https://ytb.52sf.ga/jmsytb.m3u8?c=26
+#EXTINF:-1 tvg-id="6110" tvg-name="运通财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EFTV.png" group-title="港澳台",运通财经
+https://ytb.52sf.ga/jmsytb.m3u8?c=27
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",YOYO TV
+https://ytb.52sf.ga/jmsytb.m3u8?c=28
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",NASA TV
+https://ytb.52sf.ga/jmsytb.m3u8?c=29
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",NASA TV2
+https://ytb.52sf.ga/jmsytb.m3u8?c=30
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",CNA
+https://ytb.52sf.ga/jmsytb.m3u8?c=31
+#EXTINF:-1 tvg-id="6112" tvg-name="诚心电视台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ChengSinTV.png" group-title="港澳台",诚心电视台
+https://ytb.52sf.ga/jmsytb.m3u8?c=32
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",NBC News
+https://ytb.52sf.ga/jmsytb.m3u8?c=33
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",华视综艺
+https://ytb.52sf.ga/jmsytb.m3u8?c=34
+
+#EXTINF:-1 tvg-id="7216" tvg-name="美食星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fooldplanet.png" group-title="港澳台",美食星球
+https://ytb.52sf.ga/jmsytb.m3u8?c=38
+
+#EXTINF:-1 tvg-id="6172" tvg-name="亚洲旅游台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/asiatravel.png" group-title="港澳台",亚洲旅游台
+https://ytb.52sf.ga/jmsytb.m3u8?c=40
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",靖天电视台
+https://ytb.52sf.ga/jmsytb.m3u8?c=41
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",凤凰新闻
+https://ytb.52sf.ga/jmsytb.m3u8?c=42
+
 
 #EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="港澳台",ViuTV
-http://kkmix1.f3322.net:762/hls/ch1/s.m3u8
 
 #EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="港澳台",ViuTV6
-http://kkmix1.f3322.net:762/hls/ch2/s.m3u8
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/RDfdX4g.jpg" group-title="港澳台",港台电视31
@@ -392,11 +489,6 @@ http://live.mastvnet.com:800/4rlff1m/live.m3u8
 http://124.238.99.44:808/hls/357/index.m3u8
 
 
-
-
-
-
-
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1-综合频道
 http://117.148.179.155/PLTV/88888888/224/3221231468/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1-综合频道
@@ -438,7 +530,7 @@ http://117.148.179.164/PLTV/88888888/224/3221231711/index.m3u8
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视",CCTV12-社会与法
 http://117.148.179.150/PLTV/88888888/224/3221231660/index.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV13-新闻频道
-http://39.135.138.59:18890/PLTV/88888910/224/3221225638/index.m3u8
+
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",CCTV15-音乐频道
 http://117.148.179.169/PLTV/88888888/224/3221231693/index.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV17-农村频道
@@ -481,7 +573,6 @@ http://112.15.230.48/PLTV/88888888/224/3221230334/index.m3u8
 http://117.148.179.138/PLTV/88888888/224/3221231580/index.m3u8
 #EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="央视",CHC家庭影院
 http://117.148.179.151/PLTV/88888888/224/3221231799/index.m3u8
-
 
 
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视
@@ -625,7 +716,6 @@ http://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index
 #EXTINF:-1 tvg-id="1880" tvg-name="BTV新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV新闻.png" group-title="地方",北京新闻 FHD
 http://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8
 
-
 #EXTINF:-1 tvg-id="6113" tvg-name="NHK" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHK.png" group-title="日本",NHK
 http://58.99.33.16:1935/liveedge17/live_108_3.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="6113" tvg-name="NHK" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHK.png" group-title="日本",NHK
@@ -678,9 +768,6 @@ http://183.110.27.87/mtnlive/_definst_/720/chunklist.m3u8
 https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
 
 
---------------------------------------------------------------------
--------------¥¥¥¥¥--------------------------------------------------
---------------------------------------------------------------------
 #EXTINF: -1 tvg-id="Animal Planet-ClipTV" tvg-name="Animal Planet" tvg-logo="https://i.imgur.com/V6dxmRT.png" group-title="北美", ANIMAL PLANET HD
 https://vips-livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF: -1 tvg-id="Animax" tvg-name="Animax" tvg-logo="https://i.ibb.co/tKy129y/Animax.png" group-title="北美", ANIMAX HD
@@ -771,8 +858,6 @@ https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EU
 https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
 
 
-
-
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="体育",CCTV5
 http://140.207.241.2:8080/live/program/live/cctv5hd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="体育",CCTV5
@@ -816,7 +901,6 @@ https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育",TNTSPORTS 5[1280*720]
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 
---------------------------------------------------------------------
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="https://i.imgur.com/tfSUIUk.jpg" group-title="4K",C芒果TV
 http://39.135.55.105:6610/PLTV/88888888/224/3221226887/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="4K",CCTV8K超高清
@@ -844,9 +928,6 @@ http://136.243.42.146:1499
 https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",LoveNature4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-
-
-
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="音乐",HD音乐频道
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
@@ -876,3 +957,448 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="音乐",CMT Equal Play
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f68f53eb1e5800007390bf8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:11,A&E HD
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a0cg/index.m3u8
+#EXTINF:11,AMC HD
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a0ch/index.m3u8
+#EXTINF:0,AXN HD
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a05g/index.m3u8
+#EXTINF:0,AZ click HD
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a05v/index.m3u8
+#EXTINF:0,Animal Planet HD
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a0ew/index.m3u8
+#EXTINF:0,Antena 3
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a00a/index.m3u8
+#EXTINF:0,Antena 7- RD
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a01b/index.m3u8
+#EXTINF:0,Atres Series
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a00g/index.m3u8
+#EXTINF:0,Azcorazon
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a01p/index.m3u8
+#EXTINF:0,Azmundo
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a09e/index.m3u8
+#EXTINF:0,BANDAMAX HD
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a0ii/index.m3u8
+#EXTINF:0,BBC World
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a022/index.m3u8
+#EXTINF:0,Baby TV
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a007/index.m3u8
+#EXTINF:0,Boomerang
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a01j/index.m3u8
+#EXTINF:0,CABLEMAR TV HD
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a0hu/index.m3u8
+#EXTINF:0,CANAL 11 HD
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a0i5/index.m3u8
+#EXTINF:0,CANAL 6 HD
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a0i4/index.m3u8
+#EXTINF:0,CARTOON NT HD
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a00y/index.m3u8
+#EXTINF:0,CCN
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a01l/index.m3u8
+#EXTINF:0,CERTV
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a04h/index.m3u8
+#EXTINF:0,CINECANAL HD
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a09w/index.m3u8
+#EXTINF:0,CNN Internacional
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a00j/index.m3u8
+#EXTINF:0,CNNE
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a021/index.m3u8
+#EXTINF:0,CONCERT CHANNEL
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a00z/index.m3u8
+#EXTINF:0,Canal 3 - GUA
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a0ct/index.m3u8
+#EXTINF:0,Canal 4 - PAN
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a04k/index.m3u8
+#EXTINF:0,Canal Antigua - GUA
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a098/index.m3u8
+#EXTINF:0,Cine Latino
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a052/index.m3u8
+#EXTINF:0,CineMax
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a053/index.m3u8
+#EXTINF:0,Comedy Central HD
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a066/index.m3u8
+#EXTINF:0,DHE HD
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a05u/index.m3u8
+#EXTINF:0,DISCOVERY THEATHER HD
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a063/index.m3u8
+#EXTINF:0,Digital 15 - RD
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a02h/index.m3u8
+#EXTINF:0,Discovery Channel HD
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a06m/index.m3u8
+#EXTINF:0,Discovery Civilization
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a00c/index.m3u8
+#EXTINF:0,Discovery Home & Health
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a04t/index.m3u8
+#EXTINF:0,Discovery ID HD
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a06r/index.m3u8
+#EXTINF:0,Discovery Science
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a00d/index.m3u8
+#EXTINF:0,Discovery Turbo
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a04s/index.m3u8
+#EXTINF:0,Discovery World HD
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a06o/index.m3u8
+#EXTINF:0,Disney
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a04q/index.m3u8
+#EXTINF:0,Disney JR
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a01k/index.m3u8
+#EXTINF:0,Disney 
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a09d/index.m3u8
+#EXTINF:0,E! Entertairment HD
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a05m/index.m3u8
+#EXTINF:0,EL LIDER 5 HD
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a0hw/index.m3u8
+#EXTINF:0,ESPN +
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a027/index.m3u8
+#EXTINF:0,ESPN HD
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a06h/index.m3u8
+#EXTINF:0,ESPN 2 HD
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a06f/index.m3u8
+#EXTINF:0,ESPN 3 HD
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a06g/index.m3u8
+#EXTINF:0,ESPN2
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a09p/index.m3u8
+#EXTINF:0,EWTN
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a025/index.m3u8
+#EXTINF:0,Europa HD
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a05s/index.m3u8
+#EXTINF:0,Exa TV
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a09q/index.m3u8
+#EXTINF:0,FOX
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a04r/index.m3u8
+#EXTINF:0,FOX Action HD
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a06b/index.m3u8
+#EXTINF:0,FOX Comedy HD
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a06s/index.m3u8
+#EXTINF:0,FOX Family HD
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a06c/index.m3u8
+#EXTINF:0,FOX HD
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a09t/index.m3u8
+#EXTINF:0,FOX LIFE
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a01n/index.m3u8
+#EXTINF:0,FOX Movies HD
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a06a/index.m3u8
+#EXTINF:0,FOX SPORT
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a0in/index.m3u8
+#EXTINF:0,FOX SPORTS 2 HD
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a061/index.m3u8
+#EXTINF:0,FOX SPORTS 3 HD
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a06i/index.m3u8
+#EXTINF:0,FOX Series HD
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a069/index.m3u8
+#EXTINF:0,FX HD
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a05r/index.m3u8
+#EXTINF:0,FX Movies HD
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a05t/index.m3u8
+#EXTINF:0,Film & arts HD
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a0cf/index.m3u8
+#EXTINF:0,Fox Classic HD
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a06d/index.m3u8
+#EXTINF:0,Fox Sports HD
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a05f/index.m3u8
+#EXTINF:0,Golden
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a039/index.m3u8
+#EXTINF:0,Golf Channel HD
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a05x/index.m3u8
+#EXTINF:0,Guatevision - GUA
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a018/index.m3u8
+#EXTINF:0,H2
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a033/index.m3u8
+#EXTINF:0,HBO
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a057/index.m3u8
+#EXTINF:0,HBO Family HD
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a013/index.m3u8
+#EXTINF:0,HBO HD
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a010/index.m3u8
+#EXTINF:0,HBO Plus HD
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a012/index.m3u8
+#EXTINF:0,HBO XTREME
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a014/index.m3u8
+#EXTINF:0,HBO2 HD
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a011/index.m3u8
+#EXTINF:0,HOLA! TV HD
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a065/index.m3u8
+#EXTINF:0,HTV
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a0ik/index.m3u8
+#EXTINF:0,History HD
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a026/index.m3u8
+#EXTINF:0,Home & Health HD
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a064/index.m3u8
+#EXTINF:0,JAGUAR TV HD
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a0ic/index.m3u8
+#EXTINF:0,LAS ESTRELLAS HD
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a0ig/index.m3u8
+#EXTINF:0,LIFE TIME
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a01u/index.m3u8
+#EXTINF:0,MASTV - PAN
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a02p/index.m3u8
+#EXTINF:0,MIMUSICA HD
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a0i8/index.m3u8
+#EXTINF:0,MTV HD
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a028/index.m3u8
+#EXTINF:0,MTV Hits
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a01w/index.m3u8
+#EXTINF:0,MTV SIM HD
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a067/index.m3u8
+#EXTINF:0,Mas Chic
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a009/index.m3u8
+#EXTINF:0,Multipremier
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a051/index.m3u8
+#EXTINF:0,Nat Geo HD
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a06j/index.m3u8
+#EXTINF:0,Nat Geo Kids
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a02y/index.m3u8
+#EXTINF:0,National Geographic
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a01t/index.m3u8
+#EXTINF:0,Nick Jr
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a01i/index.m3u8
+#EXTINF:0,Nick SIM HD
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a060/index.m3u8
+#EXTINF:0,Nickelodeon
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a04p/index.m3u8
+#EXTINF:0,PICOSA
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a0il/index.m3u8
+#EXTINF:0,PXTV
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a00h/index.m3u8
+#EXTINF:0,Paramount HD
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a06k/index.m3u8
+#EXTINF:0,Pasiones HD
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a06p/index.m3u8
+#EXTINF:0,RCN - GUA
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a005/index.m3u8
+#EXTINF:0,RCN Novelas
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a030/index.m3u8
+#EXTINF:0,RHEMA TV
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a05e/index.m3u8
+#EXTINF:0,Repretel
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a02q/index.m3u8
+#EXTINF:0,SEMILLITAS
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a01m/index.m3u8
+#EXTINF:0,SERTV - PAN
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a002/index.m3u8
+#EXTINF:0,SONY HD
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a09v/index.m3u8
+#EXTINF:0,SPACE HD
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a05h/index.m3u8
+#EXTINF:0,SUNDANCE HD
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a0ie/index.m3u8
+#EXTINF:0,Sembrador
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a03e/index.m3u8
+#EXTINF:0,Star TVE HD
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a0co/index.m3u8
+#EXTINF:0,Studio Universal HD
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a0cb/index.m3u8
+#EXTINF:0,SyFy HD
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a05k/index.m3u8
+#EXTINF:0,TBN Enlace
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a024/index.m3u8
+#EXTINF:0,TCM
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a03a/index.m3u8
+#EXTINF:0,TDTV+ HD
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a0i2/index.m3u8
+#EXTINF:0,TELECADENA 7/4 HD
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a0hy/index.m3u8
+#EXTINF:0,TELECEIBA HD
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a0i6/index.m3u8
+#EXTINF:0,TELEHIT HD
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a0ij/index.m3u8
+#EXTINF:0,TELEHIT MUSICA HD
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a0i7/index.m3u8
+#EXTINF:0,TELEMUNDO HD
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a0i0/index.m3u8
+#EXTINF:0,TELEPROGRESO HD
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a0hv/index.m3u8
+#EXTINF:0,TEN HD
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a0i1/index.m3u8
+#EXTINF:0,TLC
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a09n/index.m3u8
+#EXTINF:0,TLNOVELAS HD
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a0ih/index.m3u8
+#EXTINF:0,TNT HD
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a062/index.m3u8
+#EXTINF:0,TNT Series HD
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a06l/index.m3u8
+#EXTINF:0,TSI HD
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a0hx/index.m3u8
+#EXTINF:0,TV Max - PAN
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a04j/index.m3u8
+#EXTINF:0,TV COPAN 9 HD
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a0ib/index.m3u8
+#EXTINF:0,TVChile
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a00b/index.m3u8
+#EXTINF:0,TVE
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a09s/index.m3u8
+#EXTINF:0,Telemundo HD
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a05q/index.m3u8
+#EXTINF:0,Telesistema RD
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a01c/index.m3u8
+#EXTINF:0,Teletica
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a02r/index.m3u8
+#EXTINF:0,Teleuniverso - RD
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a0f0/index.m3u8
+#EXTINF:0,UNE TV HD
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a0hz/index.m3u8
+#EXTINF:0,Universal
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a0eo/index.m3u8
+#EXTINF:0,Univision HD
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a0et/index.m3u8
+#EXTINF:0,VENUS
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a0ex/index.m3u8
+#EXTINF:0,VH1 Classic
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a0ev/index.m3u8
+#EXTINF:0,VH1 HD
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a0es/index.m3u8
+#EXTINF:0,WARNER HD
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a0eq/index.m3u8
+#EXTINF:0,ZOL TV HD
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a0ia/index.m3u8
+#EXTINF:0,ZooMoo
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:8001/play/a0er/index.m3u8
